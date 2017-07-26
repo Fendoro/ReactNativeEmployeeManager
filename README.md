@@ -4,7 +4,7 @@ Based on course: https://www.udemy.com/the-complete-react-native-and-redux-cours
 
 ### Used Technologies
 
-JS6, react, react-native, android, redux, firebase, lodash, react-native-router-flux, react-native-communications, redux-thunk
+ES6, react, react-native, android, redux, firebase, lodash, react-native-router-flux, react-native-communications, redux-thunk
 
 ### Getting Started
 
